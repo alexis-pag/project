@@ -1,4 +1,4 @@
-# **_Risques liés à l'utilisation d'une IA pour coder (version très détaillée et exhaustive)_**
+# **_Risques liés à l'utilisation d'une IA pour coder **
 
 Ce document rassemble l’ensemble des risques connus, directs et indirects, liés à l’usage d’une [**intelligence artificielle générative**](https://www.google.com/search?q=intelligence+artificielle+g%C3%A9n%C3%A9rative) pour la production de code.  
 Il couvre les aspects techniques, humains, organisationnels, juridiques et sécuritaires.
